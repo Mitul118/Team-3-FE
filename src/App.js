@@ -17,7 +17,7 @@ function App() {
           <Navbar.Brand href="#home">
             <img
               alt=""
-              src="https://team-3host.s3.amazonaws.com/logo.jpg"
+              src="https://i.pinimg.com/originals/12/09/c3/1209c327430651c8626fa30c708568e4.jpg"
               width="30"
               height="30"
               className="d-inline-block align-top"
