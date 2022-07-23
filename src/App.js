@@ -22,7 +22,7 @@ function App() {
               height="30"
               className="d-inline-block align-top"
             />{' '}
-             <Link className="navbar-brand" to={'/sign-in'}>
+             <Link className="navbar-brand" to={'/'}>
              Captain America
             </Link>
           </Navbar.Brand>
@@ -30,12 +30,12 @@ function App() {
             <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
               <ul className="navbar-nav ml-auto">
                 <li className="nav-item">
-                  <Link className="nav-link" to={'/sign-in'}>
+                  <Link className="nav-link" to={'/'}>
                     Login
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to={'/sign-up'}>
+                  <Link className="nav-link" to={'/'}>
                     Register
                   </Link>
                 </li>
